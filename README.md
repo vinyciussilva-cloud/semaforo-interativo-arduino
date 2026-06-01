@@ -14,6 +14,30 @@
 
 ---
 
+## 🔍  Sobre o Projeto
+O **Semáforo Interativo** é uma solução tecnológica desenvolvida como entrega final da **Sprint 2** para o curso de *Técnico em Tecnologia e Inovação Digital*. O sistema simula um cenário real de engenharia de tráfego urbano, focado na segurança de pedestres e na otimização do fluxo de veículos automotores.
+
+> **Diretriz do Projeto:** Aliar conceitos práticos de eletrônica digital, programação estruturada em ambiente C/C++ e montagem física de protótipos (maquetes) para criar uma resposta inteligente
+
+---
+
+# 🎯 Objetivo da Atividade
+
+<div align="center">
+
+```txt
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║   Desenvolver um sistema automatizado de semáforo de duas vias utilizando Arduino UNO no Tinkercad, aplicando conceitos      ║
+║   de eletrônica, programação em C/C++, lógica computacional e automação inteligente para simular o controle sincronizado     ║
+║   e seguro do tráfego urbano. O projeto busca proporcionar experiência prática em sistemas embarcados, integrando            ║
+║   hardware e software por meio da montagem eletrônica e da simulação digital de circuitos.                                   ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
 ## 📌 Itens Obrigatórios da Entrega
 
 ### 📄 1. Projeto Escrito no Formato ABNT
@@ -30,27 +54,9 @@
 
 ---
 
-### 🔗 3. Repositório no GitHub
-> Todos os arquivos do projeto organizados e acessíveis: código-fonte, imagens, vídeos e documentos, todos bem nomeados.
-
-```
-📦 semaforo-interativo/
-├── 📂 Documentacao/
-│   └── 📝 Projeto_Semaforo_ABNT.docx
-├── 📂 codigo/
-│   └── 💻 semaforo.ino
-├── 📂 circuito/
-│   └── 📸 circuito_tinkercad.png
-├── 📂 video/
-│    └── 🎥 demo_semaforo.mp4
-├── 📄 README.md
-```
-
----
-
 <div align="center">
 
-## 🚀 Desenvolvido por [Seu Nome] — Escola SENAI "A. Jacob Lafer" — Santo André/SP
+## 🚀Desenvolvido da atividade pelo Grupo 1 - Escola SENAI "A. Jacob Lafer"
 ### 1° Termo 2026 — Técnico em Tecnologia e Inovação Digital
 
 <br/>
