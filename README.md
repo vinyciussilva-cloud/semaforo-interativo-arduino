@@ -61,7 +61,7 @@ Para cumprir todos os requisitos estabelecidos para a entrega final pelo profess
 ### 3. Link do Repositório no GitHub
 > Este repositório centraliza e organiza todos os arquivos do projeto com nomenclatura clara, facilitando o acesso ao código-fonte, imagens, esquemas elétricos e documentações para avaliação.
 
-🔗 [📫 Clique aqui para assistir ao Vídeo do Funcionamento](INSIRA_O_LINK_DO_SEU_VIDEO_AQUI)
+🔗 [📫 Clique aqui para ver o Repositorio](INSIRA_O_LINK_DO_SEU_VIDEO_AQUI)
 
 ---
 
