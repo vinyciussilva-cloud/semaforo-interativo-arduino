@@ -50,7 +50,24 @@ O **Semáforo Interativo** é uma solução tecnológica desenvolvida como entre
 ### 🎥 2. Vídeo da Maquete Editado
 > Gravação com todo o passo a passo da construção, explicações e detalhes visuais, mostrando a evolução do projeto e seu funcionamento final.
 
-🔗 [Assistir Vídeo](#)
+---
+
+# 👨‍💻 Circuitos Desenvolvidos
+
+| Circuito | Código Fonte | Tinkercad |
+|:---:|:---:|:---:|
+| [📸 Ver Imagem](https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/Circuito%20Semaforos/Pedro%20Henrique%20Prandwiski%20Borges.png) | [💻 Ver Código Fonte](https://github.com/Pedro-h1/GRP1_IoT_Arduino/blob/main/assets/C%C3%B3digo%20Fonte%20Comentado%20-%20Pedro%20Henrique.ino) | [🔗 Abrir Tinkercad](https://www.tinkercad.com/things/9S9Fbs3AfDy-semaforo-de-duas-vias?sharecode=IJLFuYluPaSSKleSzCsU623pG0Ipb02lRVT5BRVjlRw) |
+
+---
+
+# 🌐 Links Úteis
+
+| Plataforma | Link |
+|:---:|:---|
+| 🎨 Tinkercad | https://www.tinkercad.com |
+| 📘 Arduino Docs | https://docs.arduino.cc |
+| 🏫 Escola SENAI | https://www.senai.br |
+| 💻 Repositório | https://github.com/vinyciussilva-cloud/Sprint2-Entrega_Final |
 
 ---
 
