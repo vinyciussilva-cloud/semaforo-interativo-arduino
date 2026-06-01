@@ -73,7 +73,7 @@ O **Semáforo Interativo** é uma solução tecnológica desenvolvida como entre
 
 <div align="center">
 
-## 🚀Desenvolvido da atividade pelo Grupo 1 - Escola SENAI "A. Jacob Lafer"
+## 🚀Desenvolvido pelo Grupo 1 - Escola SENAI "A. Jacob Lafer"
 ### 1° Termo 2026 — Técnico em Tecnologia e Inovação Digital
 
 <br/>
